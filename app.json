@@ -1,7 +1,7 @@
 {
-    "name": "NOBITA_MUSIC",
+    "name": "MADARA_MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/bswmmi.jpg",
+    "logo": "https://files.catbox.moe/3e6u6a.png",
     "keywords": [
     "python3",
     "telegram",
