@@ -7,15 +7,15 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("35411328"))
+API_HASH = getenv("4c8d3c8f5d3483296f5fb530ea2cfcc6")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("8566031050:AAGclcEADKSyfdDXQWN0DMS3FuZ6nH1nnF4")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_NOBITA_DEFAULTERS_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","YOUR_fucker_dad")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","NOBITA_MUSIC_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME","TEST_X_CLONE_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -27,10 +27,10 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002344707828))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003774441740))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 5536473064))
+OWNER_ID = int(getenv("OWNER_ID", 8441236350))
 
 
 # make your bots privacy from telegra.ph and put your url here 
